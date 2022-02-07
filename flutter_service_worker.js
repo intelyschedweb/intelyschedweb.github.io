@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "62b41cc893b7fad9f005898e6c9fd999",
+  "assets/AssetManifest.json": "dd78d7141eaba21d3eaf7e94880939d8",
 "assets/assets/fonts/NotoSans/NotoColorEmoji.ttf": "e0e141083ec8960372e6fa96940d0721",
 "assets/assets/fonts/NotoSans/NotoSans-Bold.ttf": "98f0cacc6bb63b64b98aac7cac082d27",
 "assets/assets/fonts/NotoSans/NotoSans-BoldItalic.ttf": "a1375023bb3f9d55dfc6d58685cd6e69",
@@ -82,6 +82,7 @@ const RESOURCES = {
 "assets/assets/images/others/Chat2.svg": "6a0427b36d0417d1672b94aeac02c6fa",
 "assets/assets/images/others/comments.svg": "b3dfadedfeac23a8fa47a173f59c97c7",
 "assets/assets/images/others/cross_out_icon.svg": "708c6a6dcbd4af75986b5d855f091716",
+"assets/assets/images/others/decline_call_icon.svg": "e2ae47d59039290f52944b9e7233438e",
 "assets/assets/images/others/doctor_image.png": "73ab0be65193c9159f419d6f2e52e157",
 "assets/assets/images/others/dr.svg": "bec0bca806b2e95e969a941f8bf70590",
 "assets/assets/images/others/Ellipse%252024.svg": "5a1f2f21a60d76f4f2565224ae2c5296",
@@ -161,9 +162,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "68959028094194afa917e484ed1fb25b",
-"/": "68959028094194afa917e484ed1fb25b",
-"main.dart.js": "d7cc457ad407515d9eea84546f862fb8",
+"index.html": "5ab182eda0e481c906bada34384553d6",
+"/": "5ab182eda0e481c906bada34384553d6",
+"main.dart.js": "e304cfce8500148e3724b6b79515fc62",
 "manifest.json": "f1349d8ca67c527fb0d86c50206a990e",
 "version.json": "6a94f0952750025774c2b33ea834afb7"
 };
